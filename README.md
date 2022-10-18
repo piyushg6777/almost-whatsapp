@@ -8,3 +8,4 @@ Anyone can contribute to the repo, so refer the issues, coz we need a lotta help
 # Suggested Designs
 
 * [Figma Link](https://www.figma.com/file/SFiL0ixAuw9th55kiiUEVO/Untitled?node-id=0%3A1) from [72002sweta](https://github.com/72002sweta)
+* [Figma Link](https://www.figma.com/file/P1k9kyLuo3aRRfunRjMC6i/WhatsApp-UI-Screens-(Community)?node-id=20%3A2) from [Saloni098](https://github.com/Saloni098)
